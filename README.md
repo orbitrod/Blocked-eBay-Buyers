@@ -1,1 +1,1 @@
-# Blocked-eBay-Buyers
+# Blocked eBay Buyers
